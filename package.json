@@ -1,0 +1,29 @@
+{
+  "name": "emojihash",
+  "version": "1.0.0",
+  "description": "A simple method to hash any string into a set of emojis",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha src/tests/**/**.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/argentlabs/emojihash.git"
+  },
+  "keywords": [
+    "emoji",
+    "hash",
+    "sha3",
+    "ethereum",
+    "address"
+  ],
+  "author": "Gerald Goldstein <gerald@argent.xyz>",
+  "license": "MIT",
+  "dependencies": {
+    "web3-utils": "^1.0.0-beta.36"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
