@@ -1,4 +1,4 @@
-## emojihash
+## web3-emojihash
 
 A simple method to hash any string into a set of emojis.
 
@@ -11,7 +11,7 @@ npm install --save web3-emojihash
 ## Usage
 
 ```js
-const emojihash = require('emojihash');
+const emojihash = require('web3-emojihash');
 
 console.log(emojihash('0x0a8e61546c31062528df0b57de0a22e68d749173'));
 
