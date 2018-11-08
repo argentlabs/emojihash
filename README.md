@@ -5,7 +5,7 @@ A simple method to hash any string into a set of emojis.
 ## Install
 
 ```
-npm install --save emojihash
+npm install --save web3-emojihash
 ```
 
 ## Usage
